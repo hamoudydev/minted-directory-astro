@@ -1,7 +1,7 @@
 [general]
-title = "Minted Directory"
+title = "Dearborn Delivery"
 logo = ""
-iconLogo = "tabler:leaf"
+iconLogo = "tabler:h exagon-letter-d"
 
 [general.seo]
 name = "Nuxt Starters"
@@ -56,6 +56,11 @@ name = "Guided Meditations"
 color = "green"
 
 [[directory.tags]]
+key = "food"
+name = "Food"
+color = "blue"
+
+[[directory.tags]]
 key = "timer"
 
 [header.banner]
@@ -92,7 +97,7 @@ link = ""
 icon = "tabler:brand-instagram"
 
 [footer.socials.x]
-link = "https://x.com/mark_bruderer"
+link = "https://x.com/hamoudydev"
 icon = "tabler:brand-twitter"
 
 [footer.socials.youtube]
